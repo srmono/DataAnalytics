@@ -1,0 +1,35 @@
+
+	SSIS	SQL Server Integration Service
+	SSAS	SQL Server Analysis Services
+	SSRS	SQL Server Reporting Service
+
+
+data from various sources ->  stage -> process -> repo -> data mart -> access 
+
+SSIS	SQL Server Integration Service
+	platform for enterprise level data integ
+	Data Tras solution 
+
+
+Add and configure flat file connection manager
+Remapping Data Type
+Adding and Configuring an OLE DB Connetion Manager: Helps us to connect with Destination 
+
+
+
+ Source : Flatcurrency
+
+	ETL -> Tranformation 
+
+ Destination: SQL Server
+
+sql server
+sql server manager studio -->  connected sql ser  -> imported 
+
+
+
+
+
+
+
+
